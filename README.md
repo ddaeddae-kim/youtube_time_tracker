@@ -10,16 +10,15 @@ Although local chrome.storage allows us to store [up to 5 Mb of data](https://de
 
 ```js
 {
-  "2019": 110.2, // year
-  "jan-2019": 110.2, // month
-  "2-2019": 110.2, // week (0-52)
-  "2019-01-13": 110.2, // today
-  "2018": 10294, // previous year
-  "dec-2018": 1248, // previous month
-  "1-2019": 159, // previous week
-  "2019-01-12": 91 // yesterday,
-  "time_watched": 10404.2 // total time watched,
-  "installed_at": "2019-01-01" // when extension was installed
+  "2020": 110.2, // year
+  "nov-2020": 110.2, // month
+  "2-2020": 110.2, // week (0-52)
+  "2020-11-18": 110.2, // today
+  "2019": 0, // previous year
+  "oct-2020": 0, // previous month
+  "1-2020": 56, // previous week
+  "2029-11-17": 91 // yesterday,
+  "time_watched": 1281.2 // total time watched,
 }
 ```
 
